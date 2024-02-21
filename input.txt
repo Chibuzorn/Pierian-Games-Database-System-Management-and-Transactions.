@@ -1,0 +1,15 @@
+A#100#A. N. Other# ano@somewhere.net
+B#A100#100 metres sprint#Stadium 1#2024-07-01#14:00#1000
+C#100
+D#A100
+E#A100#100
+F
+G
+H#E001
+I#100
+J#1234
+K#A100
+L
+
+
+
